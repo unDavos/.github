@@ -14,7 +14,7 @@ Most of our repositories are private, because they hold operational systems and 
 
 ## For collaborators
 
-If you work with unDavos, start in the repository you have been invited to and read its README first. Keep changes small, open a pull request, and ask a maintainer to review it before it is merged. Never push straight to `main`.
+If you work with unDavos, read the [unDavos GitHub Handbook](https://github.com/unDavos/.github/blob/main/CONTRIBUTING.md), then start in the repository you have been invited to and read its README first. Keep changes small, open a pull request, and ask a maintainer to review it before it is merged. Never push straight to `main`.
 
 Live planning, tasks and decisions happen in the team's internal workspace, not on GitHub.
 
